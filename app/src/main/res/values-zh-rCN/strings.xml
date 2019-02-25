@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Launcher</string>
+    <string name="title">标题</string>
+    <string name="message">你的信息</string>
+    <string name="only_send_title">仅发送标题</string>
+    <string name="send_email">发送邮件</string>
+    <string name="launch_activity">打开新页面</string>
+    <string name="launch_camera">打开相机</string>
+</resources>
